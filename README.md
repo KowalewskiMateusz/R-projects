@@ -1,2 +1,2 @@
 # R-projects
-R projects I made on Erasmus Exchange in Slovenia.
+R projects I and my classmate made on Erasmus Exchange in Slovenia.
